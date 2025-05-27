@@ -1,4 +1,4 @@
-# Q3 Project
+#Multi Strategy Algorithmic Trading Framework
 
 This repository contains the implementation of a machine learning project with multiple tasks focused on data analysis and model development.
 
